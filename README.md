@@ -45,4 +45,5 @@ npm run preview  # derlemeyi yerelde önizle
 
 ## Canlı Demo
 
-Netlify linki: _buraya ekle_
+Netlify linki: [_buraya ekle_](https://melodious-travesseiro-ab7d31.netlify.app/
+)
